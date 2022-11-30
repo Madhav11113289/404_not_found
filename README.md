@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://page-404-not-found-1bce9.web.app/}">
+    <a href="https://devchallange-602f9.web.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://page-404-not-found-1bce9.web.app/}">
+    <a href="https://devchallange-602f9.web.app/">
       Solution
     </a>
     <span> | </span>
